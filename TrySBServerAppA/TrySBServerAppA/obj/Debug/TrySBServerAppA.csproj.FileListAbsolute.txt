@@ -1,0 +1,8 @@
+D:\Joonu\TestLab\TrySBServerAppA\TrySBServerAppA\bin\Debug\TrySBServerAppA.exe.config
+D:\Joonu\TestLab\TrySBServerAppA\TrySBServerAppA\bin\Debug\TrySBServerAppA.exe
+D:\Joonu\TestLab\TrySBServerAppA\TrySBServerAppA\bin\Debug\TrySBServerAppA.pdb
+D:\Joonu\TestLab\TrySBServerAppA\TrySBServerAppA\bin\Debug\Microsoft.Azure.Relay.dll
+D:\Joonu\TestLab\TrySBServerAppA\TrySBServerAppA\bin\Debug\Microsoft.Azure.Relay.xml
+D:\Joonu\TestLab\TrySBServerAppA\TrySBServerAppA\obj\Debug\TrySBServerAppA.csprojResolveAssemblyReference.cache
+D:\Joonu\TestLab\TrySBServerAppA\TrySBServerAppA\obj\Debug\TrySBServerAppA.exe
+D:\Joonu\TestLab\TrySBServerAppA\TrySBServerAppA\obj\Debug\TrySBServerAppA.pdb
