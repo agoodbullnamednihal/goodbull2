@@ -6,3 +6,6 @@ D:\Joonu\TestLab\TrySBServerAppA\TrySBServerAppA\bin\Debug\Microsoft.Azure.Relay
 D:\Joonu\TestLab\TrySBServerAppA\TrySBServerAppA\obj\Debug\TrySBServerAppA.csprojResolveAssemblyReference.cache
 D:\Joonu\TestLab\TrySBServerAppA\TrySBServerAppA\obj\Debug\TrySBServerAppA.exe
 D:\Joonu\TestLab\TrySBServerAppA\TrySBServerAppA\obj\Debug\TrySBServerAppA.pdb
+D:\Joonu\TestLab\goodbull\TrySBServerAppA\TrySBServerAppA\bin\Debug\TrySBServerAppA.exe.config
+D:\Joonu\TestLab\goodbull\TrySBServerAppA\TrySBServerAppA\obj\Debug\TrySBServerAppA.exe
+D:\Joonu\TestLab\goodbull\TrySBServerAppA\TrySBServerAppA\obj\Debug\TrySBServerAppA.pdb
