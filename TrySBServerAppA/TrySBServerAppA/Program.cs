@@ -9,10 +9,10 @@ namespace TrySBServerAppA
 {
     class Program
     {
-        private const string RelayNamespace = @"tryrelayb.servicebus.windows.net";
-        private const string ConnectionName = @"tryhybridconnb";
-        private const string KeyName = @"RootManageSharedAccessKey";
-        private const string Key = @"gNMx5NjtEFK8iJMxieTA6GIM9dMUpQD9D11vofUIils=";
+        private const string RelayNamespace = @"yourrelay.servicebus.windows.net";
+        private const string ConnectionName = @"yourconnection";
+        private const string KeyName = @"yourKey";
+        private const string Key = @"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
         static void Main(string[] args)
         {
             RunAsync().GetAwaiter().GetResult();
