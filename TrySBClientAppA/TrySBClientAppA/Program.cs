@@ -11,7 +11,7 @@ namespace TrySBClientAppA
     {
         private const string RelayNamespace = @"yourrelay.servicebus.windows.net";
         private const string ConnectionName = @"yourconnection";
-        private const string KeyName = @"yourKey";
+        private const string KeyName = @"yourKeyName";
         private const string Key = @"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
         static void Main(string[] args)
