@@ -16,6 +16,7 @@ namespace TrySBClientAppA
 
         static void Main(string[] args)
         {
+            RunAsync().GetAwaiter().GetResult();
         }
 
         private static async Task RunAsync()
